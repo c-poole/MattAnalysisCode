@@ -1,1 +1,3 @@
-.ipython_checkpoints
+*.ipython_checkpoints*
+*paper*
+*Paper*
