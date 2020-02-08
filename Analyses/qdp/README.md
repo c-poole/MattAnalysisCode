@@ -1,2 +1,0 @@
-# qdp
-Quantum Data Processing
