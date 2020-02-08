@@ -1,0 +1,3 @@
+[submodule "FNode/analyses/qdp"]
+	path = FNode/analyses/qdp
+	url = https://github.com/QuantumQuadrate/qdp.git/
