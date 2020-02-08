@@ -1,0 +1,28 @@
+# Cached builds
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.egg
+*.egg-info/
+
+# IDE and editors
+.cache/
+.idea/
+.project/
+.tox/
+.git/
+*.swp
+*.ipynb_checkpoints*
+
+# Build directories
+docs/_build/
+build/
+dist/
+
+# testing
+*.json
+*.npy
+*.hdf5
